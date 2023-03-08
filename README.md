@@ -1,5 +1,5 @@
 # Smart Parking System
-## Video Link: [Click here](https://drive.google.com/file/d/17_TmXPGPSs4CwV2JfCaCvLoEosLGjgpm/view )
+## Video Link: [Click here](https://youtu.be/GGOI_Qb97MA)
 <img src="images/0.jpg" width="900"/>
 <table>
   <tr>
